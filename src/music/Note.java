@@ -31,6 +31,7 @@ public class Note implements Music {
      */
     public double duration() {
         return duration;
+        
     }
 
     /**
